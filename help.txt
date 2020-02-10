@@ -1,0 +1,5 @@
+run specific target 
+fastlane do_everything --env Smartsikring
+
+ru all
+fastlane do_everything 
